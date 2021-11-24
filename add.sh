@@ -8,4 +8,4 @@ number2=20
 
 sum=$(( $number1 + $number2 ))
 
-echo "The addition of 2 numbers is $sum"
+echo "The addition of two numbers is $sum"
